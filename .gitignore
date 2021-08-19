@@ -144,3 +144,6 @@ mod_app.sh
 
 #POSTGRES#config/database.yml
 #POSTGRES#.env/development/database
+
+Dockerfile
+
