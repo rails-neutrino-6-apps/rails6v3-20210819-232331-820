@@ -4,7 +4,7 @@
 # Violations will not stop the app from passing but will be flagged here.
 
 docker/cop
-# docker/rbp
+docker/rbp
 # docker/sandi_meter
 # docker/audit
 # docker/brakeman

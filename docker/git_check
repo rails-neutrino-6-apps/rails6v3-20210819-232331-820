@@ -8,7 +8,7 @@ docker/test
 
 docker/cop
 
-# docker/rbp
+docker/rbp
 
 echo '----------'
 echo 'git status'
