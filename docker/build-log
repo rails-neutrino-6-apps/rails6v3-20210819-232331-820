@@ -43,6 +43,6 @@ docker/bundle_install
 
 docker/migrate
 
-#TEST_APP docker/test
+docker/test
 
 # docker/test_code

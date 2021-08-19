@@ -61,3 +61,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 ###################
 # END: initial gems
 ###################
+
+# The rexml gem is necessary in Ruby 3.  Not having it in the Gemfile leads to the following error message: 
+# LoadError: cannot load such file -- rexml/document
+gem 'rexml', '3.2.5'
