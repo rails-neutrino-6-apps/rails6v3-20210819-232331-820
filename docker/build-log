@@ -41,7 +41,7 @@ echo '##############################'
 
 docker/bundle_install
 
-#DATABASE_MIGRATE docker/migrate
+docker/migrate
 
 #TEST_APP docker/test
 
