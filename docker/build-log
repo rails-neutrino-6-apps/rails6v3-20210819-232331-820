@@ -39,9 +39,7 @@ echo '##############################'
 echo 'FINISHED: docker-compose build'
 echo '##############################'
 
-docker/gem_install_bundler
-
-#BUNDLE_INSTALL docker/bundle_install
+docker/bundle_install
 
 #DATABASE_MIGRATE docker/migrate
 
